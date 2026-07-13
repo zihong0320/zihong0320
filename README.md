@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋 I'm [김지홍/Kim Ji-Hong]</h1>
+<h1 align="center">Hi there 👋 I'm 김지홍/Kim Ji-Hong</h1>
 
 <p align="center">
-  🚀 <strong>[회로 설계 / Verification / Embedded] 개발자</strong>를 꿈꾸는 [김지홍]입니다.<br>
+  🚀 <strong>[회로 설계 / Verification / Embedded] 개발자</strong>를 꿈꾸는 [김지홍] 입니다.<br>
   💡 새로운 기술을 배우고 문제를 해결하는 과정에서 즐거움을 느낍니다.
 </p>
 
