@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [이름/닉네임]</h1>
+<h1 align="center">Hi there 👋 I'm [김지홍/Kim Ji-Hong]</h1>
 
 <p align="center">
   🚀 <strong>[원하는 직무, 예: Frontend / Embedded] 개발자</strong>를 꿈꾸는 [이름]입니다.<br>
