@@ -1,6 +1,10 @@
-<p align="center">
-  # Hi there 👋
-</p>
+<div align="center">
+
+# Hi there 👋
+여기에 추가로 작성할 소개 글이나 링크를 넣으면
+전부 한 번에 가운데로 정렬됩니다!
+
+</div>
 
 <!--
 **zihong0320/zihong0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
