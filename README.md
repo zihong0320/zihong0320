@@ -1,22 +1,16 @@
-<div align="center">
+<h1 align="center">Hi there 👋 I'm [이름/닉네임]</h1>
 
-# Hi there 👋
-여기에 추가로 작성할 소개 글이나 링크를 넣으면
-전부 한 번에 가운데로 정렬됩니다!
+<p align="center">
+  🚀 <strong>[원하는 직무, 예: Frontend / Embedded] 개발자</strong>를 꿈꾸는 [이름]입니다.<br>
+  💡 새로운 기술을 배우고 문제를 해결하는 과정에서 즐거움을 느낍니다.
+</p>
 
-</div>
+---
 
-<!--
-**zihong0320/zihong0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stacks
+* **Languages:** C, C++, SystemVerilog, Python
+* **Tools & Frameworks:** Vivado, Quartus, Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Interest & Focus
+* 하드웨어-소프트웨어 통합 설계 (Co-design)
+* 대용량 데이터 처리를 위한 FIFO 및 파이프라인 최적화
