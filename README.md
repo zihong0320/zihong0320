@@ -1,4 +1,6 @@
-# Hi there 👋
+<p align="center">
+  # Hi there 👋
+</p>
 
 <!--
 **zihong0320/zihong0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
