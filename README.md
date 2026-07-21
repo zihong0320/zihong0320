@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tech Stacks
-* **Languages:** C, C++, Verilog, SystemVerilog, Python
+* **Languages:** Verilog, SystemVerilog, C, C++, Python
 * **Tools & Frameworks:** Vivado, Quartus, Git
 
 ### 🎯 Interest & Focus
