@@ -22,7 +22,7 @@
 
 ### 🚀 4x4 MAC Array Accelerator [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/4x4_Mac_Array_Accelerator)
 > **행렬 연산 가속을 위한 Systolic Array 구조 MAC 가속기 설계**
-* **Tech:** `Verilog` `Pipeline`, 'Weight Stationary', 'Double Weight MAC'
+* **Tech:** `Verilog` `Pipeline`, `Weight Stationary`, `Double Weight MAC`
 * **Focus:** 4x4 행렬 연산을 위한 데이터패스 설계 및 파이프라이닝을 통한 병렬 연산 최적화.
 
 ### 🎮 RHYTHM BEAT (VGA Rhythm Game) [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/VGA_RHYTHM_GAME)
