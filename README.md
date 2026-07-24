@@ -1,9 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Jihong Kim</h1>
-  <h3>Hardware / Embedded AI / Verification Engineer</h3>
-  <br>
-  <p>💡 <b>하드웨어-소프트웨어 통합 설계(Co-design)</b>와 <b>온디바이스 AI / 아키텍처 최적화</b>에 관심이 많은 개발자입니다.</p>
-  <p>🛠 대용량 데이터 처리 병목 해결 및 하드웨어 가속기/임베디드 파이프라인 최적화 과정에서 즐거움을 느낍니다.</p>
+  <h3>Hardware / Verification Engineer / Embedded </h3>
 </div>
 
 ---
