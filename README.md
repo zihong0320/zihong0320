@@ -23,29 +23,29 @@
 
 ## 📁 Key Projects
 
-### 🚀 [4x4 MAC Array Accelerator](https://github.com/zihong0320/4x4_Mac_Array_Accelerator)
+### 🚀 4x4 MAC Array Accelerator [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/4x4_Mac_Array_Accelerator)
 > **행렬 연산 가속을 위한 Systolic Array 구조 MAC 가속기 설계**
 * **Tech:** `Verilog` `Pipeline Architecture`
 * **Focus:** 4x4 행렬 연산을 위한 데이터패스 설계 및 파이프라이닝을 통한 병렬 연산 최적화.
 
-### 🎮 [RHYTHM BEAT (VGA Rhythm Game)](https://github.com/zihong0320/VGA_RHYTHM_GAME)
+### 🎮 RHYTHM BEAT (VGA Rhythm Game) [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/VGA_RHYTHM_GAME)
 > **OV7670 카메라 객체 인식 기반 모션 리듬 게임 및 실시간 통신 시스템**
 * **Tech:** `Verilog` `UART` `FIFO` `VGA` `Python`
 * **Focus:** FIFO 기반 UART Sender 타이밍 제어 및 1-Byte Event Trigger를 통한 PC-FPGA 간 프레임 동기화(Latency 완화).
 * **Result:** 파이프라인 레지스터 설계를 통한 Timing Violation 해결 (WNS +4.1ns 달성).
 
-### 🖥️ [SoC AXI4-Lite SPI/I2C Peripheral](https://github.com/zihong0320/SoC_AXI4-Lite_SPI_I2C_Peripheral)
+### 🖥️ SoC AXI4-Lite SPI/I2C Peripheral [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/SoC_AXI4-Lite_SPI_I2C_Peripheral)
 > **MicroBlaze SoC 기반 AXI4-Lite 통신 IP 설계 및 계층형 SW 구축**
 * **Tech:** `SystemVerilog` `AXI4-Lite` `UVM` `SPI/I2C` `C`
 * **Focus:** Application ➔ Driver ➔ HAL ➔ HW로 이어지는 계층형 소프트웨어 아키텍처 적용 및 하드웨어 타이밍 최적화.
 * **Result:** SystemVerilog UVM을 활용한 Random Test 2,000회 PASS 및 Functional Coverage 100% 달성.
 
-### 🧠 [Multi-cycle RISC-V 32I Core & APB PERIPHERAL](https://github.com/zihong0320/Multi-cycle_RISC-V_32I_APB_Peripheral)
+### 🧠 Multi-cycle RISC-V 32I Core & APB PERIPHERAL [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/Multi-cycle_RISC-V_32I_APB_Peripheral)
 > **RV32I 명령어 셋 기반 Multi-cycle 프로세서 설계 및 검증**
 * **Tech:** `Verilog` `RISC-V` `Harvard Architecture`
-* **Focus:** Instruction Fetch부터 Write-Back까지의 Datapath 설계 및 Control Unit FSM 구현. RV32I 기본 명령어 동작 확인, APB Peripheral 설계, C algorism 적용.
+* **Focus:** Instruction Fetch부터 Write-Back까지의 Datapath 설계 및 Control Unit FSM 구현. RV32I 기본 명령어 동작 확인, APB Peripheral 설계, C Algorithm 적용.
 
-### 🦯 [Intelligent Navigation for Visually Impaired](https://github.com/zihong0320/Intelligent_Navigation_for_the_Visually_Impaired)
+### 🦯 Intelligent Navigation for Visually Impaired [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/Intelligent_Navigation_for_the_Visually_Impaired)
 > **시각장애인을 위한 Jetson Orin Nano 기반 실시간 온디바이스 보행 보조 안내 시스템**
 * **Tech:** `Jetson Orin Nano` `YOLO11` `TensorRT` `Ollama(Local LLM)` `gTTS` `Python`
 * **Focus:** 
@@ -55,7 +55,6 @@
 
 ---
 
----
 <div align="center">
   <i>📫 How to reach me: <b>your.email@example.com</b></i>
 </div>
