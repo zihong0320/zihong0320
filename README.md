@@ -43,11 +43,11 @@
 ### 🧠 [Multi-cycle RISC-V 32I Core & APB PERIPHERAL](https://github.com/zihong0320/Multi-cycle_RISC-V_32I_APB_Peripheral)
 > **RV32I 명령어 셋 기반 Multi-cycle 프로세서 설계 및 검증**
 * **Tech:** `Verilog` `RISC-V` `Harvard Architecture`
-* **Focus:** INSTRUCTIION FETCH부터 WRITE BACK까지의 Datapath 설계 및 Control Unit FSM 구현. RV32I 기본 명령어 동작 확인.
+* **Focus:** Instruction Fetch부터 Write-Back까지의 Datapath 설계 및 Control Unit FSM 구현. RV32I 기본 명령어 동작 확인, APB Peripheral 설계, C algorism 적용.
 
 ### 🦯 [Intelligent Navigation for Visually Impaired](https://github.com/zihong0320/Intelligent_Navigation_for_the_Visually_Impaired)
 > **시각장애인을 위한 Jetson Orin Nano 기반 실시간 온디바이스 보행 보조 안내 시스템**
-* **Tech:** `Jetson Orin Nano` `YOLO11` `TensorRT` `Ollama (Local LLM)` `gTTS` `Python`
+* **Tech:** `Jetson Orin Nano` `YOLO11` `TensorRT` `Ollama(Local LLM)` `gTTS` `Python`
 * **Focus:** 
   * 다중 YOLO 추론 결과 파싱, 코드 총괄 및 로컬 LLM(Ollama) 연동을 통한 상황 맞춤형 안내 문장 생성.
   * 초경량 모델(`Qwen2:0.5b`) 및 TensorRT 가속 적용을 통한 실시간 온디바이스 Latency 극대화.
