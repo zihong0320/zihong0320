@@ -11,7 +11,7 @@
 ## 🚀 Tech Stack
 
 ### ⚡ Hardware & Verification
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1F425F?style=for-the-badge) ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-002B49?style=for-the-badge) ![SVA](https://img.shields.io/badge/SVA-333333?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1F425F?style=for-the-badge) ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-002B49?style=for-the-badge)
 
 ### 💻 Embedded AI & Software
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
