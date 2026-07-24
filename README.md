@@ -44,7 +44,7 @@
 
 ### 🦯 Intelligent Navigation for Visually Impaired &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/Intelligent_Navigation_for_the_Visually_Impaired)
 > **시각장애인을 위한 Jetson Orin Nano 기반 실시간 온디바이스 보행 보조 안내 시스템**
-* **Tech:** `Jetson Orin Nano` `YOLO11` `TensorRT` `Ollama(Local LLM)` `gTTS` `Python`
+* **Tech:** `Jetson Orin Nano` `YOLO11` `Ollama(Local LLM)` `gTTS` `Python`
 * **Focus:** 
   * 다중 YOLO 추론 결과 파싱, 코드 총괄 및 로컬 LLM(Ollama) 연동을 통한 상황 맞춤형 안내 문장 생성.
   * 초경량 모델(`Qwen2:0.5b`) 및 TensorRT 가속 적용을 통한 실시간 온디바이스 Latency 극대화.
