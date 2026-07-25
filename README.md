@@ -25,7 +25,7 @@
 * **Tech:** `Verilog` `Pipeline` `Weight Stationary` `Double Weight MAC`
 * **Focus:** 4x4 행렬 연산을 위한 데이터패스 설계 및 파이프라이닝을 통한 병렬 연산 최적화.
 
-### 🎮 RHYTHM BEAT (VGA Rhythm Game) &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/VGA_RHYTHM_GAME)
+### 🎵 RHYTHM BEAT (VGA Rhythm Game) &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/VGA_RHYTHM_GAME)
 > **OV7670 카메라 객체 인식 기반 모션 리듬 게임 및 실시간 통신 시스템**
 * **Tech:** `FPGA(Basys3)` `SystemVerilog` `UART` `FIFO` `VGA`
 * **Focus:** FIFO 기반 UART Sender 타이밍 제어 및 1-Byte Event Trigger를 통한 PC-FPGA 간 프레임 동기화(Latency 완화).
