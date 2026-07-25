@@ -27,18 +27,18 @@
 
 ### 🎮 RHYTHM BEAT (VGA Rhythm Game) &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/VGA_RHYTHM_GAME)
 > **OV7670 카메라 객체 인식 기반 모션 리듬 게임 및 실시간 통신 시스템**
-* **Tech:** `SystemVerilog` `UART` `FIFO` `VGA` `Python`
+* **Tech:** `FPGA(Basys3)` `SystemVerilog` `UART` `FIFO` `VGA`
 * **Focus:** FIFO 기반 UART Sender 타이밍 제어 및 1-Byte Event Trigger를 통한 PC-FPGA 간 프레임 동기화(Latency 완화).
 * **Result:** 파이프라인 레지스터 설계를 통한 Timing Violation 해결 (WNS +4.1ns 달성).
   
 ### 🧠 Multi-cycle RISC-V 32I Core & APB PERIPHERAL &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/Multi-cycle_RISC-V_32I_APB_Peripheral)
 > **RV32I 명령어 셋 기반 Multi-cycle 프로세서 설계 및 검증**
-* **Tech:** `SystemVerilog` `RISC-V` `Harvard Architecture`
+* **Tech:** `FPGA(Basys3)` `SystemVerilog` `RISC-V` `Harvard Architecture`
 * **Focus:** Instruction Fetch부터 Write-Back까지의 Datapath 설계 및 Control Unit FSM 구현. RV32I 기본 명령어 동작 확인, APB Peripheral 설계, C Algorithm 적용.
 
 ### 🖥️ SoC AXI4-Lite SPI/I2C Peripheral &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/SoC_AXI4-Lite_SPI_I2C_Peripheral)
 > **MicroBlaze SoC 기반 AXI4-Lite 통신 IP 설계 및 계층형 SW 구축**
-* **Tech:** `SystemVerilog` `AXI4-Lite` `UVM` `SPI/I2C` `C`
+* **Tech:** `FPGA(Basys3)` `SystemVerilog` `AXI4-Lite` `UVM` `SPI/I2C` `C`
 * **Focus:** Application ➔ Driver ➔ HAL ➔ HW로 이어지는 계층형 소프트웨어 아키텍처 적용 및 하드웨어 타이밍 최적화.
 * **Result:** SystemVerilog UVM을 활용한 Random Test 2,000회 PASS 및 Functional Coverage 100% 달성.
 
