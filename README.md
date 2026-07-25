@@ -42,7 +42,7 @@
 * **Focus:** Application ➔ Driver ➔ HAL ➔ HW로 이어지는 계층형 소프트웨어 아키텍처 적용 및 하드웨어 타이밍 최적화.
 * **Result:** SystemVerilog UVM을 활용한 Random Test 2,000회 PASS 및 Functional Coverage 100% 달성.
 
-### 🗜️ SPI & I2C Master/Slave Design and UVM Verification &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/SPI_I2C_UVM_Verification)
+### 🗜️ SPI & I2C Master/Slave Design and UVM Verification &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/SPI_I2C_Design_UVM)
 > **SystemVerilog 기반 SPI / I2C 프로토콜 Design 및 SPI 루프백 UVM 기능 검증**
 * **Tech:** `FPGA(Basys3)` `SystemVerilog` `SPI` `I2C` `UVM` `Synopsys VCS`
 * **Focus:** SPI/I2C Protocol Spec 분석 및 Master-Slave RTL 설계, Dual FPGA 보드 간 직렬 통신 실증, UVM Loopback 검증 환경 구축.
