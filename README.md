@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 📚 Tech Stack
 
 ### Hardware & Verification
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1F425F?style=for-the-badge) ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-002B49?style=for-the-badge)
