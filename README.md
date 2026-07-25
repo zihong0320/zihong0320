@@ -7,13 +7,13 @@
 
 ## 🚀 Tech Stack
 
-### ⚡ Hardware & Verification
+### Hardware & Verification
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1F425F?style=for-the-badge) ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-002B49?style=for-the-badge)
 
-### 💻 Embedded AI & Software
+### Embedded AI & Software
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ⚙️ Edge Boards, Interfaces & Tools
+### Edge Boards, Interfaces & Tools
 ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-FF6F00?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-412991?style=for-the-badge) ![SPI/I2C](https://img.shields.io/badge/SPI%2FI2C-008080?style=for-the-badge) ![AXI4-Lite](https://img.shields.io/badge/AXI4--Lite-D9381E?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
