@@ -42,6 +42,12 @@
 * **Focus:** Application ➔ Driver ➔ HAL ➔ HW로 이어지는 계층형 소프트웨어 아키텍처 적용 및 하드웨어 타이밍 최적화.
 * **Result:** SystemVerilog UVM을 활용한 Random Test 2,000회 PASS 및 Functional Coverage 100% 달성.
 
+### 🗜️ SPI & I2C Master/Slave Design and UVM Verification &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/SPI_I2C_UVM_Verification)
+> **SystemVerilog 기반 SPI / I2C 프로토콜 Design 및 SPI 루프백 UVM 기능 검증**
+* **Tech:** `FPGA(Basys3)` `SystemVerilog` `SPI` `I2C` `UVM` `Synopsys VCS`
+* **Focus:** SPI/I2C Protocol Spec 분석 및 Master-Slave RTL 설계, Dual FPGA 보드 간 직렬 통신 실증, UVM Loopback 검증 환경 구축.
+* **Result:** Synopsys VCS 환경 기반 Random Test 1,999회 100% PASS 및 Functional Coverage 100% 달성.
+
 ### 🦯 Intelligent Navigation for Visually Impaired &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/Intelligent_Navigation_for_the_Visually_Impaired)
 > **시각장애인을 위한 Jetson Orin Nano 기반 실시간 온디바이스 보행 보조 안내 시스템**
 * **Tech:** `Jetson Orin Nano` `YOLO11` `Ollama(Local LLM)` `gTTS` `Python`
@@ -49,6 +55,8 @@
   * 다중 YOLO 추론 결과 파싱, 코드 총괄 및 로컬 LLM(Ollama) 연동을 통한 상황 맞춤형 안내 문장 생성.
   * 초경량 모델(`Qwen2:0.5b`) 및 TensorRT 가속 적용을 통한 실시간 온디바이스 Latency 극대화.
 * **Result:** Gemma3(4b) 대비 5초 이상의 Latency를 수초 이하 실시간 반응 수준으로 최적화.
+
+
 
 ---
 
