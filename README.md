@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Jihong Kim</h1>
-  <h3>Hardware / Verification / Embedded </h3>
+  <h3>RTL / Verification / Hardeware / Embedded </h3>
 </div>
 
 ---
