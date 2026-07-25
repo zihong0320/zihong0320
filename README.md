@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  <i>📫 How to reach me: <b>zihong0320@gmail.com</b></i>
+  <i>📫 Email : <b>zihong0320@gmail.com</b></i>
 </div>
