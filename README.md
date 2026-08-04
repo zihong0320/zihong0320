@@ -7,20 +7,20 @@
 
 ## 📚 Tech Stack
 
-### ⚡ RTL Design & Architecture
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1F425F?style=for-the-badge) ![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge) ![RISC-V](https://img.shields.io/badge/RISC--V-D41016?style=for-the-badge)
+### ⚡ RTL Design
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1F425F?style=for-the-badge) ![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge) ![Vivado](https://img.shields.io/badge/Vivado-FF6F00?style=for-the-badge)
 
 ### 🧪 Design Verification
-![UVM](https://img.shields.io/badge/UVM-002B49?style=for-the-badge) ![SVA](https://img.shields.io/badge/SVA-333333?style=for-the-badge) ![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-5B2B82?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-002B49?style=for-the-badge) ![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-5B2B82?style=for-the-badge)
 
 ### 🧠 Embedded AI & Software
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-1F5B96?style=for-the-badge) ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ### 🔌 Interfaces & Hardware Platforms
-![AXI4-Lite](https://img.shields.io/badge/AXI4--Lite-D9381E?style=for-the-badge) ![SPI/I2C](https://img.shields.io/badge/SPI%2FI2C-008080?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-412991?style=for-the-badge) ![Basys3](https://img.shields.io/badge/Basys3_(Artix--7)-003366?style=for-the-badge) ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![AXI4-Lite](https://img.shields.io/badge/AXI4--Lite-D9381E?style=for-the-badge) ![SPI/I2C](https://img.shields.io/badge/SPI%2FI2C-008080?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-412991?style=for-the-badge) ![Zybo Z7-20](https://img.shields.io/badge/Zybo_Z7--20_(Zynq)--7A1F7D?style=for-the-badge) ![Basys3](https://img.shields.io/badge/Basys3_(Artix--7)-003366?style=for-the-badge)
 
-### 🛠 Tools & EDA
-![Vivado](https://img.shields.io/badge/Vivado-FF6F00?style=for-the-badge) ![Vitis](https://img.shields.io/badge/Vitis-1F5B96?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🛠 EDA Tools & Development Environment
+![Design Compiler](https://img.shields.io/badge/Design_Compiler-5B2B82?style=for-the-badge) ![Formality](https://img.shields.io/badge/Formality-333333?style=for-the-badge) ![STA](https://img.shields.io/badge/STA-00599C?style=for-the-badge) ![ICC2](https://img.shields.io/badge/ICC2-1F425F?style=for-the-badge) ![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-5B2B82?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
