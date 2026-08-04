@@ -20,7 +20,7 @@
 ![AXI4-Lite](https://img.shields.io/badge/AXI4--Lite-D9381E?style=for-the-badge) ![SPI/I2C](https://img.shields.io/badge/SPI%2FI2C-008080?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-412991?style=for-the-badge) ![Zybo Z7-20](https://img.shields.io/badge/Zybo_Z7--20_(Zynq)--7A1F7D?style=for-the-badge) ![Basys3](https://img.shields.io/badge/Basys3_(Artix--7)-003366?style=for-the-badge)
 
 ### 🛠 EDA Tools & Development Environment
-![Design Compiler](https://img.shields.io/badge/Design_Compiler-5B2B82?style=for-the-badge) ![Formality](https://img.shields.io/badge/Formality-333333?style=for-the-badge) ![STA](https://img.shields.io/badge/STA-00599C?style=for-the-badge) ![ICC2](https://img.shields.io/badge/ICC2-1F425F?style=for-the-badge) ![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-5B2B82?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Design Compiler](https://img.shields.io/badge/Design_Compiler-5B2B82?style=for-the-badge) ![Formality](https://img.shields.io/badge/Formality-333333?style=for-the-badge) ![STA](https://img.shields.io/badge/STA-00599C?style=for-the-badge) ![ICC2](https://img.shields.io/badge/ICC2-1F425F?style=for-the-badge) ![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-5B2B82?style=for-the-badge)
 
 ---
 
