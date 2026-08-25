@@ -11,7 +11,7 @@
 | :--- | :--- | :--- |
 | **온디바이스AI 시스템반도체 설계 1기**<br>*(980시간)* | **대한상공회의소 서울기술교육센터**<br>`2026.01.20 - 2026.08.24` | • ARM Cortex-M 및 SoC (AMBA BUS) 기반 온디바이스 AI 시스템 프로그래밍<br>• SystemVerilog RTL 설계 및 UVM 기반 기능 검증 프로젝트 수행 |
 | **시스템반도체설계 실무인력양성교육 10기**<br>*(디지털 트랙, 칩설계 특화)*<br>*(438시간)* | **KAIST IDEC**<br>`2025.09.01 - 2025.12.19` | • SAED 32nm 공정 라이브러리 기반 Single-mode Dual-corner PVT 조건 설계<br>• Synopsys EDA Tool 기반 ASIC Full-Flow (Front-End & Back-End) 실무 수행 |
-| **2025 AI Chip Camp**<br>**AI반도체 활용 및 응용**<br>*(12시간)* | **한국정보통신진흥협회 (KAIT)**<br>`2025.05.26 - 2025.05.28` | • LPU(LLM Processing Unit) 아키텍처 구조 및 동작 개념 학습<br>• AI 반도체 활용 및 응용 기술 교육 이수 |
+
 
 ---
 
