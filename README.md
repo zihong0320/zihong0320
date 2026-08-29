@@ -25,7 +25,7 @@
 ![UVM](https://img.shields.io/badge/UVM-002B49?style=for-the-badge) ![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-5B2B82?style=for-the-badge)
 
 ### Embedded AI & Software
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-1F5B96?style=for-the-badge) ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Vitis](https://img.shields.io/badge/Vitis-1F5B96?style=for-the-badge) ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Interfaces & Protocols
 ![AXI4-Lite](https://img.shields.io/badge/AXI4--Lite-D9381E?style=for-the-badge) ![SPI/I2C](https://img.shields.io/badge/SPI%2FI2C-008080?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-8B0000?style=for-the-badge)
@@ -55,7 +55,7 @@
 
 ### 🖥️ SoC AXI4-Lite SPI/I2C Peripheral &nbsp; [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/zihong0320/SoC_AXI4-Lite_SPI_I2C_Peripheral)
 > **MicroBlaze SoC 기반 AXI4-Lite 통신 IP 설계 및 계층형 SW 구축**
-* **Tech:** `FPGA(Basys3)` `NUCLEO-64 STM32` `SystemVerilog` `AXI4-Lite` `UVM` `SPI/I2C` `C`
+* **Tech:** `FPGA(Basys3)` `SystemVerilog` `AXI4-Lite` `UVM` `SPI/I2C` `C`
 * **Focus:** Application ➔ Driver ➔ HAL ➔ HW로 이어지는 계층형 소프트웨어 아키텍처 적용 및 하드웨어 타이밍 최적화.
 * **Result:** SystemVerilog UVM을 활용한 Random Test 2,000회 PASS 및 Functional Coverage 100% 달성.
 
